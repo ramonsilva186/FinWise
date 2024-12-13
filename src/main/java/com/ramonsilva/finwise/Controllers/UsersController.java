@@ -1,7 +1,6 @@
 package com.ramonsilva.finwise.Controllers;
 
 import com.ramonsilva.finwise.Dto.UserDTO;
-import com.ramonsilva.finwise.Entity.Users;
 import com.ramonsilva.finwise.Services.UsersService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
